@@ -74,13 +74,11 @@ main li a:hover {
     border-bottom: 1px solid #eee;
 }
 
-.profile section h2 {
-    color: #333;
-    margin-top: 0;
-}
-
-.profile section p {
-    margin-bottom: 10px;
+.profile section img{
+    width: 100%;
+    max-width: 600px;
+    height: 100%;
+    
 }
 
 footer {
